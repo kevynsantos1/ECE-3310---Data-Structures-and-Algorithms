@@ -75,7 +75,7 @@ bool binary_search(int arrayx[], int size, int key)// O(n)
 
 
 
-int main() // O(n)
+int main() 
 {
 	int my_array[n];
 	int key = 0;
@@ -110,6 +110,7 @@ int main() // O(n)
 
 	
 }
+
 
 
 
