@@ -76,7 +76,7 @@ void BSTree::insert(Node* r, Node* n)
 	{
 		if (r->data > n->data)
 		{
-			if (r->left == '\0')
+			if (r->left == NULL)
 			{
 				r->left = n; n->parent = r;
 			}
@@ -87,7 +87,7 @@ void BSTree::insert(Node* r, Node* n)
 		}
 		else
 		{
-			if (r->right == '\0')
+			if (r->right == NULL)
 			{
 				r->right = n; n->parent = r;
 			}
@@ -151,5 +151,6 @@ void BSTree::remove(Node* n)
 		}
 		xsucc->parent = NULL;
 	}
+
 
 }
