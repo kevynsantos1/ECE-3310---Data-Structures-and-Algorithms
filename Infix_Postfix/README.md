@@ -1,0 +1,1 @@
+This program changes an infix expression to a postfix expression and then evaluates it. You first enter an infix expression (3+5*7) and then it converts it to postfix (357*+). Lastly, it evaluates the expression
