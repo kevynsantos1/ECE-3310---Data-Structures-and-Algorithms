@@ -1,0 +1,1 @@
+This is a tree using linked list. We keep track of parent, left and right. We have functions to traverse the tree in inorder, preorder, postorder. We also have functions to remove and insert. When data is inserted it is automatically sorted.
