@@ -1,0 +1,7 @@
+﻿  Infix_Postfix.cpp
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 3310\Lecture 14\Infix_Postfix\Infix_Postfix\Infix_Postfix.cpp(11): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 3310\Lecture 14\Infix_Postfix\Infix_Postfix\Infix_Postfix.cpp(44): warning C4101: 'x': unreferenced local variable
+  IntStack.cpp
+  OStack.cpp
+  Generating Code...
+  Infix_Postfix.vcxproj -> C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 3310\Lecture 14\Infix_Postfix\x64\Debug\Infix_Postfix.exe
