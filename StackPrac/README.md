@@ -1,0 +1,1 @@
+This is practice for learning how to make a stack. In this program we convert integer values to binary. This is because for the conversion we need to keep track of the remainders and then read them from last to first.
