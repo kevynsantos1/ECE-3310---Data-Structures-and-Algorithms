@@ -1,0 +1,2 @@
+This is the program where I learned how to make a linked list. This is especially useful when we need to insert and remove anything into the list. We have two classes, one for the linked list and one for nodes. Nodes are what goes into the
+linked list. We use pointers to be able to keep the big-o notation at O(1) for insertion and deletion. Both classes have their functions and attributes that make them what they are.
