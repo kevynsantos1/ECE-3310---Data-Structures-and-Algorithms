@@ -51,12 +51,13 @@ int main()
 	
 	p3 = p3.add(p1, p2);
 
-	cout << "Display of P1: ";
+	cout << "Display of P3: ";
 	p3.display_r();
 	cout << endl;
 	cout<< "Reverse Display of P3: ";
-	p3.display(); //this one is working like display_r because of the way I insert a new node in the "add" function. This could be fixed if I add a tail to the DLL constructor and modify insert.
+	p3.display(); 
 	cout << endl; 
 
 }
+
 
