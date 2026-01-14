@@ -1,0 +1,1 @@
+This is a practice to learn how to use user-defined classes (data types). We define the attributes/data types and then create functions where we can create arrays, insert data to said array, remove data, and display what is currently in the array.
